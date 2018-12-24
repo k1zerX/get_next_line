@@ -4,3 +4,4 @@ a.out
 *.swp
 *.o
 .DS_Store
+get_next_line
